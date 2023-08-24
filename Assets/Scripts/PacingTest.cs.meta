@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: ff4676df190dd504e894e5092fd49028
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - ComPrefab: {fileID: -3885764040156101445, guid: 2a7e66a0828cf0c4c94db6c450178a43, type: 3}
+  - RtPrefab: {fileID: -6726298512002083454, guid: f42de3d80fad6d64e9a09bd47719a6c2, type: 3}
+  - forwardPacketPrefab: {fileID: 3144100124650468654, guid: 11c488ec2e8034742998fcb42a1c98dc, type: 3}
+  - backwardPacketPrefab: {fileID: 5017682839797538249, guid: e0a18431bbe3e6f40af8c0a609322bfa, type: 3}
+  - timeScalar: {instanceID: 0}
+  - currentTimeBar: {instanceID: 0}
+  - timeText: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
